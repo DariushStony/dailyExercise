@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">daily exercise</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="empty_err">Field can\'t be empty</string>
+    <string name="length_err">Password too short</string>
+    <string name="uppercase_err">Field must has uppercase</string>
+    <string name="digit_err">Field must has number</string>
+    <string name="lowercase_err">Field must has lowercase</string>
+    <string name="doing">doing</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_in">Sign in</string>
+    <string name="submit">Submit</string>
+</resources>
